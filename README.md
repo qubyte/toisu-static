@@ -1,3 +1,5 @@
+This repository is now a part of [qubyte/toisu-monorepo](https://github.com/qubyte/toisu-monorepo).
+
 # toisu-static
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/qubyte/toisu-static.svg)](https://greenkeeper.io/)
